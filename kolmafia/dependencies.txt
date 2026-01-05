@@ -1,0 +1,2 @@
+https://github.com/C2Talon/insertSelect2.git
+https://github.com/Ezandora/Choice-Override.git
